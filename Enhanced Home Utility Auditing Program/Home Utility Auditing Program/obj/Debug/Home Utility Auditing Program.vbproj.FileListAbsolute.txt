@@ -1,0 +1,22 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home_Utility_Auditing_Program.MainForm.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home_Utility_Auditing_Program.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\bin\Debug\Home Utility Auditing Program.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.vbprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home_Utility_Auditing_Program.MainForm.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home_Utility_Auditing_Program.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\Enhanced Home Utility Auditing Program\Home Utility Auditing Program\obj\Debug\Home Utility Auditing Program.vbproj.GenerateResource.Cache
