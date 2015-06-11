@@ -41,3 +41,7 @@ Write the code for the program and test the results.
 Your name, date, project description and class must be in the code as comments (similar to an APA title page). This must be in the form that automatically loads when the program is executed.
  
 Your project must be properly documented (describe the use of variables, describe how a function or routine works, use proper naming conventions for variables and labels).
+
+To run
+
+Enhanced Home Utility Auditing Program/Home Utility Auditing Program/bin/Debug/Home Utility Auditing Program.exe
